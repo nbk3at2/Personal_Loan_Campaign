@@ -5,3 +5,8 @@ A campaign that the bank ran last year for liability customers showed a healthy 
 You as a Data scientist at AllLife bank have to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
 ## Objective
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and to identify which segment of customers to target more.
+### Solution Approach
+* To extract actionable insights from the data that AllLife Bank has collected to identify key areas of focus
+* Perform EDA on Variables that influence the personal loan sales
+* Build a Decision Tree Model using CART algorithms by training the model and to maximize the performance so that we can predict whether a liability customer will buy personal loans
+* Summarize the business recommendations for the bank’s marketing department
